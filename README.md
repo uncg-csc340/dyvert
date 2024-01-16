@@ -1,6 +1,4 @@
-## Workflow Management System
-
-## WMS
+## Workflow Management System - WMS
 
 ## Team Members
 >Alice Beck, Joe Schmoe, Bob McBobbyface
@@ -15,7 +13,7 @@
 >It is designed to track team projects: backlogs, sprints, and tasks. WMS helps
 >highlight tasks that are underway or upcoming, who they are assigned to, as well as detail progress towards completion.
 >Managers can create Scrums and tasks. They can also approve timesheets. Employees (devs) can see tht tasks assigned to them,
->indicate when they start and finish working on them, as well as add notes on the tasks they work on
+>indicate when they start and finish working on them, as well as add notes on the tasks they work on.
 >Administrators are in control of who has access to the app and what their roles are.
 
 
