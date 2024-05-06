@@ -1,4 +1,5 @@
-## DyVert
+## Title
+> Dyvert
 
 ## Team Members
 >Alice Beck, Joe Schmoe, Bob McBobbyface
